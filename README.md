@@ -4,8 +4,8 @@
 
 >[Natural Language Toolkit](https://github.com/abhishek96negi/Natural-Language-Processing/tree/master/NLTK)
 
-   1.[Text Analytics](https://github.com/abhishek96negi/Natural-Language-Processing/blob/master/NLTK/Text%20Analytics.ipynb)
-   2.[Text Processing](https://github.com/abhishek96negi/Natural-Language-Processing/blob/master/NLTK/Text%20Processing%20in%20NLP.ipynb)
+  1.[Text Analytics](https://github.com/abhishek96negi/Natural-Language-Processing/blob/master/NLTK/Text%20Analytics.ipynb)
+  2.[Text Processing](https://github.com/abhishek96negi/Natural-Language-Processing/blob/master/NLTK/Text%20Processing%20in%20NLP.ipynb)
 
 >[Spacy](https://github.com/abhishek96negi/Natural-Language-Processing/blob/master/Spacy/SpaCy.ipynb)
 
